@@ -1,4 +1,4 @@
-# CSC415 Group Term Assignment - File System
+# Group Term Assignment - File System
 
 To help proffesor wrote the low level LBA based read and write.  The routines are in fsLow.o, the necessary header for you to include file is fsLow.h. There are 2 key functions:
 
